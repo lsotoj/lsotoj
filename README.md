@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate on open source projects or colaborate with improve people's life.
 - 🤔 I’m looking for help improving people's life.
 - 💬 Ask me about anythin, but I have strongs skills in telecomunications and JavaScript.
-- 📫 How to reach me: I like twitter @luissotoj
+- 📫 How to reach me: I like twitter [@luissotoj](https://twitter.com/luissotoj)
 
